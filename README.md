@@ -1,3 +1,7 @@
+Exoplanet Hunting
+
+Info on project is on whitepaper 
+
 The actual testing and training data files were to large to upload to github, same with the saved models.
 
 To generate the models run the driver.py file, enter yes to reset the models, then enter yes to save the models after theyre trained
